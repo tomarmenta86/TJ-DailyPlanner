@@ -25,8 +25,8 @@ Create an application that will allow a user to to save events for each hour of 
 * Requirments are satisfied
 
 ## Screenshot of Deployed Planner
-![Screenshot1](assets/Screenshot 1.png)
-![Screenshot2](assets/Screenshot 2.png)
+![Screenshot1](assets/PlannerAt4.png)
+![Screenshot2](assets/PlannerWithConsole.png)
 
 
 # Citation 
