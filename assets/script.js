@@ -73,8 +73,21 @@ $(function () {
     }
   }
 
+  //Pulls user input from local storage, saves on refresh, prints to screen
+  function PrintText()
+  {
+    for(let i = 0; i<localStorage.length; i++)
+    {
+      var key = localStorage.key(i);
+      var printText = localStorage.getItem(key);
+
+      document.getElementById(key).children[1].innerHTML += printText;
+    }
+  }
+
   //Function calls
   DisplayDateTime();
   SetTimeColor();
   HandleSaveButtonClicks();
+  PrintText();
 });
