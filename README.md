@@ -28,6 +28,8 @@ Create an application that will allow a user to to save events for each hour of 
 ![Screenshot1](assets/PlannerAt4.png)
 ![Screenshot2](assets/PlannerWithConsole.png)
 
+# Deployed Site
+https://tomarmenta86.github.io/TJ-DailyPlanner/
 
 # Citation 
 ## Starter code reference
